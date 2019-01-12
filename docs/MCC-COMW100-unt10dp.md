@@ -1,0 +1,6 @@
+hero: unit 10 discussion board post for <em><a href="../MCC-COMW100">Introduction to Web Page Creation</a></em>
+...
+
+# Blog critique of Nina Paley's Blog
+
+Nina Paley is an animator and filmmaker, and [her blog](http://blog.ninapaley.com/) acts as a platform for her personal stories, political opinions, works-in-progress, and promotional materials. She has [strong opinions on copyright](http://blog.ninapaley.com/2009/03/18/my-official-position-on-copyright/), and [seems to have permissively licensed her work](http://blog.ninapaley.com/2011/04/20/yes-means-yes/) under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). She is more active on [Twitter](https://twitter.com/ninapaley), but still updates the blog a few times a month on average, which I think is often enough. The blog does allow comments, and I have seen her interact with commenters. According to the archives, the blog has been running for over ten years, and there is a lot of interesting material that can be browsed through. The site itself is unfortunately dated, lacking mobile support and still displaying a Flash banner at the top, but it is still usable, at least. To me, it makes sense for Nina Paley to have this blog as a way of promoting her work and interacting with the community.

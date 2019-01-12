@@ -1,0 +1,36 @@
+site_name: Schoolwork
+nav:
+  - Home: 'README.md'
+  - Introduction to Computer Information Systems:
+    - 'MCC-COMI160.md'
+    - selected fictional business proposals for Sir Donald's Fast Food: 'MCC-COMI160-sfbpSDF.md'
+    - a presentation for Sir Donald's Fast Food: 'MCC-COMI160-prstSDF.md'
+  - Introduction to Web Page Creation:
+    - 'MCC-COMW100.md'
+    - My experience with web sites: 'MCC-COMW100-unt1dbp.md'
+    - Free Music Archive: 'MCC-COMW100-unt2dbp.md'
+    - The Public Domain Review: 'MCC-COMW100-unt3dbp.md'
+    - My thoughts on web site consistency: 'MCC-COMW100-unt4dbp.md'
+    - My thoughts on communication in web site management: 'MCC-COMW100-unt5dbp.md'
+    - Mott mobile website top 10 items: 'MCC-COMW100-unt6dbp.md'
+    - Website critique of blackboard.mcc.edu: 'MCC-COMW100-unt7dbp.md'
+    - My thoughts on logging web site changes: 'MCC-COMW100-unt8dbp.md'
+    - Websites with media that can be added to web pages: 'MCC-COMW100-unt9dbp.md'
+    - Blog critique of Nina Paley's Blog: 'MCC-COMW100-unt10dp.md'
+    - Critique of Mastodon: 'MCC-COMW100-unt11dp.md'
+    - Critique of Joomla Geeks: 'MCC-COMW100-unt12dp.md'
+    - Some plans for my site: 'MCC-COMW100-prj1dbp.md'
+    - Some plans for my site (continued): 'MCC-COMW100-prj2dbp.md'
+    - Some plans for my final project: 'MCC-COMW100-fnlpdbp.md'
+markdown_extensions:
+  - admonition
+  - def_list
+  - footnotes
+  - meta
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.tasklist:
+      custom_checkbox: true
+theme:
+  name: 'material'
+copyright: 'Licensed <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>'
