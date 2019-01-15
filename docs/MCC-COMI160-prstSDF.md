@@ -1,5 +1,5 @@
 # a presentation for Sir Donald's Fast Food
-This is the Markdown-formatted source for a [reveal.js](https://revealjs.com/) presentation I intended to present to Sir Donald's Fast Food (actually presented to my classmates, since Sir Donald's is fictional). Ultimately, it was recreated in LibreOffice Impress as a PPSX to comply with class requirements. The slides have been rearranged to match [the accompanying business proposals](MCC-COMI160-sfbpSDF.md).
+This is the Markdown-formatted source for a [reveal.js](https://revealjs.com/) presentation I intended to present to Sir Donald's Fast Food (actually presented to my coursemates, since Sir Donald's is fictional). Ultimately, it was recreated in LibreOffice Impress as a PPSX to comply with course requirements. The slides have been rearranged to match [the accompanying business proposals](MCC-COMI160-sfbpSDF.md).
 
 ## Sir Donald's fast food
 needs My Irresistible Technology Company!  <!-- .element: class="fragment" -->

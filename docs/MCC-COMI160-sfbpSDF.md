@@ -1,5 +1,5 @@
 # selected fictional business proposals for Sir Donald's Fast Food
-After inventing a fictional company (*My Irresistible Technology Company*) and a fictional potential employer (*Sir Donald's Fast Food*), throughout the class I wrote brief business proposals for ways I could improve the technological capabilities of my potential employer. Some of the more memorable proposals are collected below, with minor modifications. There is also [an accompanying presentation](MCC-COMI160-prstSDF.md).
+After inventing a fictional company (*My Irresistible Technology Company*) and a fictional potential employer (*Sir Donald's Fast Food*), throughout the course I wrote brief business proposals for ways I could improve the technological capabilities of my potential employer. Some of the more memorable proposals are collected below, with minor modifications. There is also [an accompanying presentation](MCC-COMI160-prstSDF.md).
 
 
 ## executive summary
